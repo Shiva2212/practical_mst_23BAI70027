@@ -1,0 +1,26 @@
+{
+"name": "mst",
+"version": "1.0.0",
+"description": "React Counter Application using useState",
+"private": true,
+"type": "module",
+"scripts": {
+"dev": "vite",
+"build": "vite build",
+"preview": "vite preview"
+},
+"keywords": [
+"react",
+"vite",
+"counter-app"
+],
+"author": "Shiva Sharma",
+"license": "ISC",
+"dependencies": {
+"react": "^19.2.4",
+"react-dom": "^19.2.4"
+},
+"devDependencies": {
+"vite": "^8.0.0"
+}
+}
